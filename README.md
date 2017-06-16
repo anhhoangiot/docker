@@ -1,11 +1,10 @@
-# Official Jenkins Docker image
+# Forked from Official Jenkins Docker image
 
 The Jenkins Continuous Integration and Delivery server.
 
-This is a fully functional Jenkins server, based on the Long Term Support release.
+This is a customize Jenkins server based on the Official Jenkins Docker image.
+The forked version include Ruby NodeJS and Python preinstalled.
 [http://jenkins.io/](http://jenkins.io/).
-
-For weekly releases check out [`jenkinsci/jenkins`](https://hub.docker.com/r/jenkinsci/jenkins/)
 
 
 <img src="http://jenkins-ci.org/sites/default/files/jenkins_logo.png"/>
